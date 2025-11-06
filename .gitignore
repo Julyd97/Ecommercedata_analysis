@@ -1,0 +1,43 @@
+# --- Python general ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual environments ---
+.env
+.venv
+env/
+venv/
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints
+
+# --- Data files ---
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.parquet
+*.feather
+*.db
+*.sqlite
+
+# --- Logs and temporary files ---
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# --- VSCode / IDE settings ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Build / Distribution ---
+build/
+dist/
+*.egg-info/
